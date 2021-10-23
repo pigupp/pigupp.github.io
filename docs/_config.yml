@@ -1,4 +1,8 @@
 remote_theme: lewismiddleton/cayman-dark
+title: Welcome to my website
+description:
+show_downloads: true
+google_analytics:
 gems:
 - jekyll-seo-tag
 - jekyll-feed
