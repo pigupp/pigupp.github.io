@@ -4,3 +4,5 @@ gems:
 - jekyll-feed
 - jekyll-archives
 - jekyll-youtube
+- jekyll-giphy
+- jekyll-umlauts
