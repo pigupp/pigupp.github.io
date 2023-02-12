@@ -1,8 +1,12 @@
-video {
-	/* Fit video to viewport */
-	display: block;
+a {
+	/* Text style */
+	font-size: 5vh;
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: rgba(255, 255, 255, 0.085);
+	/* Text alignment */
+	width: 70vw;
 	margin-left: auto;
 	margin-right: auto;
-	height: 100vh;
-	width: auto;
+	margin-top: 10vh;
+	text-align: center;
 }
